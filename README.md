@@ -1,5 +1,7 @@
 # ICA3
 
+## Class: UbiComp
+
 ## Members
 * Preston Tighe
 * Chris Hauser
